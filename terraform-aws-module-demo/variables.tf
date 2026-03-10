@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 variable "ami_id" {
   description = "ID of the AMI to provision. Default is Ubuntu 14.04 Base Image"
   default = "ami-6c4f4a0c"

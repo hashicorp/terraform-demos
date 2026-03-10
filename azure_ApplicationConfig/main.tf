@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 provider "azurerm" {}
 
 data "terraform_remote_state" "networkdetails" {

@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 provider "aws" {
   region = "${var.aws_region}"
 }

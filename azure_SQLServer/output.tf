@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 output "databasename" {
   value = "${azurerm_sql_server.sqlserver.name}"
 }

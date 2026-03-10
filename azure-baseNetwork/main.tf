@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 resource "azurerm_resource_group" "resource_gp" {
   name     = "${var.app_name}"
   location = "${var.location}"

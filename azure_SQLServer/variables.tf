@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 variable "app_name" {
   description = "Application Name"
   default     = "notSet"

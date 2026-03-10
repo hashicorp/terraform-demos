@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
   module "linuxservers" {
     source              = "Azure/compute/azurerm"
     location            = "${var.location}"

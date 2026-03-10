@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 data "aws_route53_zone" "selected" {
   name = "${var.domain_root}."
 }

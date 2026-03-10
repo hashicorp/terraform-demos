@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 output "mainsubnet" {
   value = "${azurerm_subnet.main.id}"
 }

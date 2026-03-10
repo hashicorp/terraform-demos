@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 # Azure Variables
 variable "location" {
   description = "Resource location"

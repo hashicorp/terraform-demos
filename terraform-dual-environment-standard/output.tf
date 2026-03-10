@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 output "aws_ip_addresses" {
     value = "${aws_instance.server.*.private_ip}"
 }

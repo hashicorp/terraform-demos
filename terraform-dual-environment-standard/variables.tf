@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 // AWS Variables
 
 variable "ami_id" {

@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 variable "azs" {
   description = "Availability Zones"
   default     = ""

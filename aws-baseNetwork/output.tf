@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 output "public_subnets" {
   value = "${module.vpc.public_subnets}"
 }
