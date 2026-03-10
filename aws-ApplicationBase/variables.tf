@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 variable "network_workspace" {
   description = "Network workspace to utilize"
   default     = "notSet"

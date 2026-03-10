@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 // AWS Servers
 provider "aws" {
     region = "${var.aws_region}"

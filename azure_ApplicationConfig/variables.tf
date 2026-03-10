@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 variable "instance_count" {
   description = "number of VMs"
   default     = "2"

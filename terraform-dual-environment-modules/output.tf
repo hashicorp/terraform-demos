@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 output "azure_public_ip_addresses" {
     value = "${module.linuxservers.public_ip_address}"
 }

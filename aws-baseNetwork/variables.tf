@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 variable "network_name" {
   description = "Name of the Network"
   default     = "notSet"

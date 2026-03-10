@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 module "vpc" {
   source = "terraform-aws-modules/vpc/aws"
 

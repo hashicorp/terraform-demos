@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2018
+
 output "app_subnet" {
   value = "${aws_subnet.sub.*.id}"
 }

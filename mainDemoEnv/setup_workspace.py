@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Copyright IBM Corp. 2018
+
 import requests
 import json
 import hcl #python pip package is pyhcl
